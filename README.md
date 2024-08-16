@@ -1,0 +1,1 @@
+## Installation```stMetacello new	repository: 'github://StephanEggermont/MigrationsPresentation:main/src';	baseline: 'MigrationsPresentation';	load```## Load Lepiter				After installing with Metacello, you will be able to execute```#BaselineOfMigrationsPresentation asClass loadLepiter```
