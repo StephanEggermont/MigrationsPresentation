@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T13:46:42.689931+02:00"
+						"dateAndTimeString" : "2024-08-16T15:31:41.435766+02:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +29,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T15:24:25.731769+02:00"
+						"dateAndTimeString" : "2024-08-16T15:33:50.639581+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "uRMBQC3cDQCcwB7ZCIohSA=="
+					"uidString" : "kE9wty7cDQC/nwwyCIohSA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[Migrations are difficult]]"
+				"string" : "From Parnass we learn that thereare two important views on the work we are doing and our results:\n- the view on what we have done and are doing when\n- and the view on how we could have achieved the results with perfect hindsight."
 			},
 			{
 				"__type" : "textSnippet",
@@ -55,7 +55,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T15:24:35.345686+02:00"
+						"dateAndTimeString" : "2024-08-16T15:33:57.804083+02:00"
 					}
 				},
 				"editEmail" : {
@@ -66,17 +66,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T15:24:45.808526+02:00"
+						"dateAndTimeString" : "2024-08-16T15:34:19.064038+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "46oKni7cDQC6C2lHCIohSA=="
+					"uidString" : "TR6Rvy7cDQCFsARfCIohSA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[Visualize the work]]"
+				"string" : "###A tree view of the work"
 			},
 			{
 				"__type" : "textSnippet",
@@ -92,7 +92,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T15:31:26.929249+02:00"
+						"dateAndTimeString" : "2024-08-16T15:34:22.744035+02:00"
 					}
 				},
 				"editEmail" : {
@@ -103,17 +103,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T15:31:36.248252+02:00"
+						"dateAndTimeString" : "2024-08-16T15:35:21.144836+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "X++Sti7cDQC/E5fsCIohSA=="
+					"uidString" : "V6wNwS7cDQCGQShiCIohSA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[Fake a rational process]]"
+				"string" : "We create a tree view of how we could have achieved our results, that we gradually fill as soon as we do it. "
 			}
 		]
 	},
@@ -125,7 +125,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2024-08-16T13:47:17.232811+02:00"
+			"dateAndTimeString" : "2024-08-16T15:31:41.400211+02:00"
 		}
 	},
 	"editEmail" : {
@@ -136,15 +136,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2024-08-16T13:47:17.232811+02:00"
+			"dateAndTimeString" : "2024-08-16T15:31:41.400211+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Migrations, the book"
+		"title" : "Fake a rational process"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "d1d90040-2ddc-0d00-9cbf-8459088a2148"
+		"uuid" : "ddc36fb7-2edc-0d00-bf9e-3bfb088a2148"
 	}
 }

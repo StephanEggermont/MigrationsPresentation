@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T13:38:57.671785+02:00"
+						"dateAndTimeString" : "2024-08-16T15:24:48.545972+02:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +29,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T13:40:57.222967+02:00"
+						"dateAndTimeString" : "2024-08-16T15:28:07.872727+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "inZJJC3cDQCWhes2CIohSA=="
+					"uidString" : "0hzUni7cDQC6fsXBCIohSA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Why do migrations fail so often, take so much longer and cost so much more than anticipated?\nLearn from my mistakes and successes"
+				"string" : "Given the difficulties of doing migrations, it is important to make them manageable. What do we need to make transparent about a migration to be able to determine if we are on our way to success?"
 			},
 			{
 				"__type" : "textSnippet",
@@ -55,7 +55,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T13:51:42.796134+02:00"
+						"dateAndTimeString" : "2024-08-16T15:28:09.437928+02:00"
 					}
 				},
 				"editEmail" : {
@@ -66,17 +66,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T13:51:44.920934+02:00"
+						"dateAndTimeString" : "2024-08-16T15:35:38.109892+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "hFPkUS3cDQCdDceyCIohSA=="
+					"uidString" : "F3nNqi7cDQC/DnvDCIohSA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "### Managing Risk"
+				"string" : "###Risks"
 			},
 			{
 				"__type" : "textSnippet",
@@ -92,7 +92,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T13:43:15.495463+02:00"
+						"dateAndTimeString" : "2024-08-16T15:35:38.829477+02:00"
 					}
 				},
 				"editEmail" : {
@@ -103,17 +103,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T13:54:14.497409+02:00"
+						"dateAndTimeString" : "2024-08-16T15:36:15.615168+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "UEKTLC3cDQCZ/HqZCIohSA=="
+					"uidString" : "HqWWxS7cDQCJvA/+CIohSA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Managing risk for a migration requires balancing two somewhat conflicting forces: \n- it is important to continuously demonstrate progess, to maintain trust with the stakeholders\n- it is important to address the largests risks first, to gradually improve predictability or cancel early."
+				"string" : "Show the risks, in order of potential impact and likelyhood"
 			},
 			{
 				"__type" : "textSnippet",
@@ -129,7 +129,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T13:53:56.815078+02:00"
+						"dateAndTimeString" : "2024-08-16T15:36:19.19966+02:00"
 					}
 				},
 				"editEmail" : {
@@ -140,17 +140,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T13:54:33.094799+02:00"
+						"dateAndTimeString" : "2024-08-16T15:36:33.146538+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "bUvhWS3cDQChqnQlCIohSA=="
+					"uidString" : "86T+xy7cDQCLkqbgCIohSA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "###Managing knowledge"
+				"string" : "###Knowledge"
 			},
 			{
 				"__type" : "textSnippet",
@@ -166,7 +166,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T13:57:42.197524+02:00"
+						"dateAndTimeString" : "2024-08-16T15:36:34.018855+02:00"
 					}
 				},
 				"editEmail" : {
@@ -177,17 +177,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T14:04:23.763276+02:00"
+						"dateAndTimeString" : "2024-08-16T15:36:58.362135+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "ZnkeXC3cDQCiYltoCIohSA=="
+					"uidString" : "xcTgyC7cDQCL0ynqCIohSA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Migrations in general involve new technology and/or new people. For a successful migration knowledge on the following subjects needs to be available:\n- the old technology\n- the new technology\n- how the application is used operationally\n- how to successfully do a migration\nIf sufficient expertise on all of these subjects is available, a migration can be run as a complicated problem (in cynefin terms). Otherwise it needs to be solved as a complex problem"
+				"string" : "Show the needed and available knowledge, and the people providing it"
 			},
 			{
 				"__type" : "textSnippet",
@@ -203,7 +203,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T14:04:27.416483+02:00"
+						"dateAndTimeString" : "2024-08-16T15:37:12.006484+02:00"
 					}
 				},
 				"editEmail" : {
@@ -214,17 +214,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T14:04:34.112105+02:00"
+						"dateAndTimeString" : "2024-08-16T15:37:20.767434+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "vYF3fy3cDQCzIk+iCIohSA=="
+					"uidString" : "Hj1kyi7cDQCNfPsTCIohSA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "###Common issues"
+				"string" : "###Progress"
 			},
 			{
 				"__type" : "textSnippet",
@@ -240,7 +240,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T14:04:52.030581+02:00"
+						"dateAndTimeString" : "2024-08-16T15:37:23.245189+02:00"
 					}
 				},
 				"editEmail" : {
@@ -251,17 +251,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T14:07:34.517434+02:00"
+						"dateAndTimeString" : "2024-08-16T15:37:30.021593+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "/qfzfy3cDQCzduwUCIohSA=="
+					"uidString" : "o+XPyy7cDQCORvvpCIohSA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "In practice, deep knowledge of the old technology is often not readily available, and experts in the old system are not offered an attractive situation after a succesful migration. If the current experts are then also not sufficiently available because they have a very high workload, it becomes very difficult to do a successful migration."
+				"string" : "Show the already know"
 			},
 			{
 				"__type" : "textSnippet",
@@ -277,7 +277,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T13:59:20.515266+02:00"
+						"dateAndTimeString" : "2024-08-16T15:37:16.0021+02:00"
 					}
 				},
 				"editEmail" : {
@@ -288,49 +288,12 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T13:59:20.515266+02:00"
+						"dateAndTimeString" : "2024-08-16T15:37:16.0021+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "HpEsbS3cDQCl9IZ2CIohSA=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : ""
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T13:38:46.15455+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T13:38:46.15455+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "TbmZIy3cDQCWhNTNCIohSA=="
+					"uidString" : "Z2Fhyy7cDQCON7EICIohSA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
@@ -347,7 +310,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2024-08-16T13:38:46.12222+02:00"
+			"dateAndTimeString" : "2024-08-16T15:24:48.508864+02:00"
 		}
 	},
 	"editEmail" : {
@@ -358,15 +321,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2024-08-16T13:38:57.667821+02:00"
+			"dateAndTimeString" : "2024-08-16T15:24:48.508864+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Migrations"
+		"title" : "Visualize the work"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "1a3a9923-2ddc-0d00-9683-cc45088a2148"
+		"uuid" : "5f8bd39e-2edc-0d00-ba7d-9c88088a2148"
 	}
 }
