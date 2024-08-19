@@ -29,8 +29,16 @@ MigrationsProject >> gtMapFor: aView [
 		painting: [ :aMondrian | 
 			aMondrian nodes
 				stencil: [ :each | 
-					self rectangleNamed: each title ];
-				with: self risks.
+					self rectangleNamed: each  ];
+				with: #(risks knowledgeAreas tasks)
+				forEach: [ :area |
+					aMondrian nodes
+						stencil: [ :element |
+							BlElement new
+								background: Color orange];
+						with: (self perform: area).
+				aMondrian layout grid].
+					
 			aMondrian layout grid
 
  ]
@@ -55,13 +63,17 @@ MigrationsProject >> knowledgeAreas: anObject [
 
 { #category : #accessing }
 MigrationsProject >> rectangleNamed: aTitle [
-	|element text|
-	element := BrVerticalPane new.
-	element border: Color gray.
+	|element text contentsArea|
+	element := BlElement new.
 	text := BrLabel new text:(aTitle asRopedText).
 	text aptitude: BrGlamorousLabelAptitude new glamorousCodeMiniSize.
 	element addChild: text.
-	element addChild: BlElement new. 
+	contentsArea := BlElement new.
+	contentsArea border: Color gray.
+	contentsArea constraintsDo: [:c |
+		c horizontal matchParent.
+		c vertical matchParent].
+	element addChild: contentsArea. 
 	^element
 ]
 
