@@ -29,11 +29,7 @@ MigrationsProject >> gtMapFor: aView [
 		painting: [ :aMondrian | 
 			aMondrian nodes
 				stencil: [ :each | 
-					BlElement new
-						size: 5 @ 5;
-						geometry: BlRectangleGeometry new;
-						background:  Color orange;
-				aptitude: (BrGlamorousWithTooltipAptitude content: each tooltip) ];
+					self rectangleNamed: each title ];
 				with: self risks.
 			aMondrian layout grid
 
@@ -55,6 +51,18 @@ MigrationsProject >> knowledgeAreas [
 { #category : #accessing }
 MigrationsProject >> knowledgeAreas: anObject [
 	knowledgeAreas := anObject
+]
+
+{ #category : #accessing }
+MigrationsProject >> rectangleNamed: aTitle [
+	|element text|
+	element := BrVerticalPane new.
+	element border: Color gray.
+	text := BrLabel new text:(aTitle asRopedText).
+	text aptitude: BrGlamorousLabelAptitude new glamorousCodeMiniSize.
+	element addChild: text.
+	element addChild: BlElement new. 
+	^element
 ]
 
 { #category : #accessing }

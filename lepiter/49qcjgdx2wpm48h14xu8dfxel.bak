@@ -103,7 +103,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T15:35:00.072965+02:00"
+						"dateAndTimeString" : "2024-08-16T15:35:21.144836+02:00"
 					}
 				},
 				"uid" : {
@@ -113,7 +113,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "We create a tree view of how we could have achieved our "
+				"string" : "We create a tree view of how we could have achieved our results, that we gradually fill as soon as we do it. "
 			}
 		]
 	},

@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T15:33:50.639581+02:00"
+						"dateAndTimeString" : "2024-08-19T12:48:08.048634+02:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +39,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "From Parnass we learn that thereare two important views on the work we are doing and our results:\n- the view on what we have done and are doing when\n- and the view on how we could have achieved the results with perfect hindsight."
+				"string" : "From Parnass we learn that there are two important views on the work we are doing and our results:\n- the view on what we have done and are doing when\n- and the view on how we could have achieved the results with perfect hindsight."
 			},
 			{
 				"__type" : "textSnippet",
