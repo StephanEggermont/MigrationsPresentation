@@ -11,6 +11,36 @@ Class {
 }
 
 { #category : #accessing }
+MigrationsProject >> addRisk: aTitle description: aDescription [
+	|risk|
+	risk := MigrationsRisk new.
+	risk title: aTitle;
+		description: aDescription.
+	self risks add: risk 
+]
+
+{ #category : #accessing }
+MigrationsProject >> gtMapFor: aView [
+	<gtView>
+
+	^ aView mondrian
+		title: 'Map';
+		priority: 62;
+		painting: [ :aMondrian | 
+			aMondrian nodes
+				stencil: [ :each | 
+					BlElement new
+						size: 5 @ 5;
+						geometry: BlRectangleGeometry new;
+						background:  Color orange;
+				aptitude: (BrGlamorousWithTooltipAptitude content: each tooltip) ];
+				with: self risks.
+			aMondrian layout grid
+
+ ]
+]
+
+{ #category : #accessing }
 MigrationsProject >> initialize [
 	risks := OrderedCollection new.
 	tasks := OrderedCollection new.
