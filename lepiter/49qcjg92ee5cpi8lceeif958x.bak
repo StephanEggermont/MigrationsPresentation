@@ -18,6 +18,43 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-21T16:00:36.01+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-21T16:05:53.415+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "EBC2hgfyDQCQjk8tCKAchA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Migrations of data and softwre systems are often taking far longer and fail much more often than necessary, This document aims to help you avoiding the unneccesay problems, and to structure migrationsn so they can be more successful and predictable."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
 						"dateAndTimeString" : "2024-08-16T13:46:42.689931+02:00"
 					}
 				},
@@ -66,7 +103,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-03-31T21:24:49.665+02:00"
+						"dateAndTimeString" : "2025-03-31T21:24:50.035+02:00"
 					}
 				},
 				"uid" : {
@@ -76,7 +113,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[Large igrations are more expensive]]"
+				"string" : "[[Large migrations are more expensive]]"
 			},
 			{
 				"__type" : "textSnippet",
@@ -173,12 +210,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2024-08-16T13:47:17.232811+02:00"
+			"dateAndTimeString" : "2025-05-21T16:05:51.002+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Migrations, the book"
+		"title" : "Migrations, a working approach"
 	},
 	"uid" : {
 		"__type" : "uuid",
