@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-21T16:00:36.01+02:00"
+						"dateAndTimeString" : "2025-05-21T17:09:38.739+02:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +29,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-21T16:06:23.967+02:00"
+						"dateAndTimeString" : "2025-05-21T17:12:13.22+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "EBC2hgfyDQCQjk8tCKAchA=="
+					"uidString" : "OBejfQjyDQC9oF4AABjsqQ=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Migrations of data and softwre systems are often taking far longer and fail much more often than necessary, This presentation aims to help you avoiding the unneccesay problems, and to structure your migrations so they can be more successful and predictable."
+				"string" : "Determining which skills are sufficiently available, where there are bottlenecks, and where there are skills missing is crucial. This is best done mostly bottom up. "
 			},
 			{
 				"__type" : "textSnippet",
@@ -55,7 +55,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T13:46:42.689931+02:00"
+						"dateAndTimeString" : "2025-05-21T17:12:33.785+02:00"
 					}
 				},
 				"editEmail" : {
@@ -66,17 +66,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T15:24:25.731769+02:00"
+						"dateAndTimeString" : "2025-05-21T17:14:41.108+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "uRMBQC3cDQCcwB7ZCIohSA=="
+					"uidString" : "qBQSiAjyDQCCUzZ3ABjsqQ=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[Migrations are difficult]]"
+				"string" : "First do a [[One team skills matrix workshop]]. To do that then for all relevant teams, show the results of the first team to the others to help them get started. "
 			},
 			{
 				"__type" : "textSnippet",
@@ -92,7 +92,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-03-31T21:24:24.691+02:00"
+						"dateAndTimeString" : "2025-05-21T17:11:08.314+02:00"
 					}
 				},
 				"editEmail" : {
@@ -103,17 +103,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-03-31T21:24:50.035+02:00"
+						"dateAndTimeString" : "2025-05-21T17:27:00.19+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "OBXYGgruDQC35EUkBhk5+g=="
+					"uidString" : "kOX5ggjyDQCAX9h5ABjsqQ=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[Large migrations are more expensive]]"
+				"string" : "####Skill levels"
 			},
 			{
 				"__type" : "textSnippet",
@@ -129,7 +129,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T15:24:35.345686+02:00"
+						"dateAndTimeString" : "2025-05-21T17:27:01.803+02:00"
 					}
 				},
 				"editEmail" : {
@@ -140,17 +140,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T15:24:45.808526+02:00"
+						"dateAndTimeString" : "2025-05-22T12:15:03.886+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "46oKni7cDQC6C2lHCIohSA=="
+					"uidString" : "+PvOuwjyDQCImScuABjsqQ=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[Visualize the work]]"
+				"string" : "There are a number of different levels at which a skill can exist and be needed:"
 			},
 			{
 				"__type" : "textSnippet",
@@ -166,7 +166,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T15:31:26.929249+02:00"
+						"dateAndTimeString" : "2025-05-22T12:12:26.399+02:00"
 					}
 				},
 				"editEmail" : {
@@ -177,17 +177,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T15:31:36.248252+02:00"
+						"dateAndTimeString" : "2025-05-22T12:14:52.338+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "X++Sti7cDQC/E5fsCIohSA=="
+					"uidString" : "eOr/vAjyDQCJ6P+0ABjsqQ=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[Fake a rational process]]"
+				"string" : "*guru* indicates an exceptional level, where specific measures are needed because it will take a lot of time and effort to find and train someone capable of performing at that level"
 			},
 			{
 				"__type" : "textSnippet",
@@ -203,7 +203,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-21T17:08:41.736+02:00"
+						"dateAndTimeString" : "2025-05-22T12:15:07.217+02:00"
 					}
 				},
 				"editEmail" : {
@@ -214,17 +214,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-21T17:08:45.392+02:00"
+						"dateAndTimeString" : "2025-05-22T12:16:21.025+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "QEs9egjyDQC85LEBABjsqQ=="
+					"uidString" : "aHAsfhjyDQCO1Be+ABjsqQ=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "###Code"
+				"string" : "*teacher* indicates mastering the skill and being able to teach and mentor others to apply the skill at an acceptable level"
 			},
 			{
 				"__type" : "textSnippet",
@@ -240,7 +240,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-21T17:08:46.422+02:00"
+						"dateAndTimeString" : "2025-05-22T12:16:21.912+02:00"
 					}
 				},
 				"editEmail" : {
@@ -251,17 +251,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-21T17:09:31.177+02:00"
+						"dateAndTimeString" : "2025-05-22T12:26:35.5+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "8MuEegjyDQC9CwPdABjsqQ=="
+					"uidString" : "wDGgghjyDQCRpORqABjsqQ=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[A skills matrix workshop]]"
+				"string" : "*senior* indicates mastering the skill, being able to resolve problems with it independently"
 			},
 			{
 				"__type" : "textSnippet",
@@ -277,7 +277,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-21T17:09:35.142+02:00"
+						"dateAndTimeString" : "2025-05-22T12:26:41.963+02:00"
 					}
 				},
 				"editEmail" : {
@@ -288,17 +288,91 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-21T17:09:35.142+02:00"
+						"dateAndTimeString" : "2025-05-22T12:27:53.778+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "cDRsfQjyDQC9nG7RABjsqQ=="
+					"uidString" : "qBZZpxjyDQCUH2A9ABjsqQ=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : ""
+				"string" : "*medior* indicates being able to apply the skill independently, being aware of when it makes sense to ask someone with *master* level for their opinion"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-22T12:27:54.794+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-22T12:28:22.903+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "ELzsqxjyDQCYB3KUABjsqQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "*junior* means being able to apply the skill with regular guidance and supervision"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-22T12:29:14.93+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-22T12:30:19.259+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "uE+vrRjyDQCZsCe2ABjsqQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "When the skill is not available, it might make sense to differentiate between *not needed*, *not available yet*, and *not aquirable* "
 			}
 		]
 	},
@@ -310,7 +384,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2024-08-16T13:47:17.232811+02:00"
+			"dateAndTimeString" : "2025-05-21T17:09:38.716+02:00"
 		}
 	},
 	"editEmail" : {
@@ -321,15 +395,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-05-21T16:05:51.002+02:00"
+			"dateAndTimeString" : "2025-05-21T17:09:38.716+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Migrations, a working approach"
+		"title" : "A skills matrix workshop"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "d1d90040-2ddc-0d00-9cbf-8459088a2148"
+		"uuid" : "60bda27d-08f2-0d00-bd9f-608f0018eca9"
 	}
 }
