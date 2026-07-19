@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T15:24:25.736855+02:00"
+						"dateAndTimeString" : "2026-07-19T11:31:47.70828+02:00"
 					}
 				},
 				"editEmail" : {
@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T15:24:25.736855+02:00"
+						"dateAndTimeString" : "2026-07-19T11:36:29.245931+02:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +39,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : ""
+				"string" : "[Index]([[Migrations, a working approach]]"
 			},
 			{
 				"__type" : "textSnippet",
@@ -362,7 +362,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-19T15:13:31.226788+02:00"
+						"dateAndTimeString" : "2024-08-19T15:13:58.778737+02:00"
 					}
 				},
 				"uid" : {
@@ -372,7 +372,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "The most important factor for success is clarity on what is to be migrated, and what not. A pragmatic approach is needed, as automating a 100% can easily be 10 times more expensive than automating 99%. Instead of fully automating, for a very low number of needed changes it can be much cheaper to solve it by manual input in either the old or the new system, and for a slightly larger number building a simple custom data-entry application "
+				"string" : "The most important factor for success is clarity on what is to be migrated, and what not. A pragmatic approach is needed, as automating a 100% can easily be 10 times more expensive than automating 99%. Instead of fully automating, for a very low number of needed changes it can be much cheaper to solve it by manual input in either the old or the new system, and for a slightly larger number building a simple custom data-entry application to solve the problem can be superior. "
 			},
 			{
 				"__type" : "textSnippet",
@@ -388,7 +388,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T13:59:20.515266+02:00"
+						"dateAndTimeString" : "2026-07-19T11:32:11.517752+02:00"
 					}
 				},
 				"editEmail" : {
@@ -399,7 +399,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T13:59:20.515266+02:00"
+						"dateAndTimeString" : "2026-07-19T11:32:48.127575+02:00"
 					}
 				},
 				"uid" : {
@@ -409,7 +409,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : ""
+				"string" : "Next: [[Large migrations are more expensive]]"
 			},
 			{
 				"__type" : "textSnippet",

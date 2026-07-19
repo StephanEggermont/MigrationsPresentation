@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-07-19T11:40:18.842163+02:00"
+						"dateAndTimeString" : "2026-07-19T11:43:07.558775+02:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +29,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-07-19T11:40:56.302999+02:00"
+						"dateAndTimeString" : "2026-07-19T11:43:14.905372+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "k6WEgknGRTSLpZrMeZMcNQ=="
+					"uidString" : "/5V1moZsR7qy5OmhadJ/vw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Index: [[Migrations, a working approach]]  Back: [[Visualize the work]]"
+				"string" : "Index: [[Migrations, a working approach]]  Back: [[Fake a rational process]]]"
 			},
 			{
 				"__type" : "textSnippet",
@@ -55,7 +55,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T15:31:41.435766+02:00"
+						"dateAndTimeString" : "2026-07-19T11:44:49.412742+02:00"
 					}
 				},
 				"editEmail" : {
@@ -66,17 +66,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-19T12:48:08.048634+02:00"
+						"dateAndTimeString" : "2026-07-19T11:46:18.977844+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "kE9wty7cDQC/nwwyCIohSA=="
+					"uidString" : "7HDzyBCARCq0rDBlDxs6zQ=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "From Parnass we learn that there are two important views on the work we are doing and our results:\n- the view on what we have done and are doing when\n- and the view on how we could have achieved the results with perfect hindsight."
+				"string" : "When starting a migration, there is a large amount of uncertainty. It should be reduced as quickly as possible, to ensure that the predictability of the migration process is gradually improved. "
 			},
 			{
 				"__type" : "textSnippet",
@@ -92,7 +92,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T15:33:57.804083+02:00"
+						"dateAndTimeString" : "2026-07-19T11:43:18.073093+02:00"
 					}
 				},
 				"editEmail" : {
@@ -103,54 +103,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T15:34:19.064038+02:00"
+						"dateAndTimeString" : "2026-07-19T11:43:18.073093+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "TR6Rvy7cDQCFsARfCIohSA=="
+					"uidString" : "x1Fm2to5Qhq2dXZQgqVD0A=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "###A tree view of the work"
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T15:34:22.744035+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-21T16:11:30.467+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "V6wNwS7cDQCGQShiCIohSA=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "We create a tree view of how we could have achieved our results, that we gradually fill as soon as we do it.  We might need to create multiple views, if different stakeholders need that. "
+				"string" : ""
 			}
 		]
 	},
@@ -162,7 +125,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2024-08-16T15:31:41.400211+02:00"
+			"dateAndTimeString" : "2026-07-19T11:42:52.407631+02:00"
 		}
 	},
 	"editEmail" : {
@@ -173,15 +136,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2024-08-16T15:31:41.400211+02:00"
+			"dateAndTimeString" : "2026-07-19T11:42:52.407631+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Fake a rational process"
+		"title" : "Priorities"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "ddc36fb7-2edc-0d00-bf9e-3bfb088a2148"
+		"uuid" : "e2690bd9-1dbe-4f96-9547-7c7d921b3e99"
 	}
 }

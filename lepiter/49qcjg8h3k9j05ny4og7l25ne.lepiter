@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T15:24:25.736855+02:00"
+						"dateAndTimeString" : "2026-07-19T11:31:47.70828+02:00"
 					}
 				},
 				"editEmail" : {
@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T15:24:25.736855+02:00"
+						"dateAndTimeString" : "2026-07-19T11:36:52.940521+02:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +39,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : ""
+				"string" : "Back to index: [[Migrations, a working approach]]"
 			},
 			{
 				"__type" : "textSnippet",
@@ -388,7 +388,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T13:59:20.515266+02:00"
+						"dateAndTimeString" : "2026-07-19T11:32:11.517752+02:00"
 					}
 				},
 				"editEmail" : {
@@ -399,7 +399,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-08-16T13:59:20.515266+02:00"
+						"dateAndTimeString" : "2026-07-19T11:32:48.127575+02:00"
 					}
 				},
 				"uid" : {
@@ -409,7 +409,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : ""
+				"string" : "Next: [[Large migrations are more expensive]]"
 			},
 			{
 				"__type" : "textSnippet",
