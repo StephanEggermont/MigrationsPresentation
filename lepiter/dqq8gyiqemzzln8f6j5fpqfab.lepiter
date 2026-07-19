@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-21T17:25:13.524+02:00"
+						"dateAndTimeString" : "2026-07-19T13:24:31.685402+02:00"
 					}
 				},
 				"editEmail" : {
@@ -29,131 +29,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-21T17:25:26.016+02:00"
+						"dateAndTimeString" : "2026-07-19T13:29:55.041278+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "OMNatQjyDQCH6mi3ABjsqQ=="
+					"uidString" : "OXoEV9QVTcu41Kl7wBpNjQ=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "###Setup"
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-21T17:15:25.256+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-21T17:15:49.451+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "QIVKkgjyDQCGXOnFABjsqQ=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "Given a team with an identifying name"
-			},
-			{
-				"__type" : "exampleSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-21T17:16:22.063+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-21T17:16:22.063+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "mFOtlQjyDQCHLASEABjsqQ=="
-				},
-				"exampleSelector" : "team1",
-				"previewHeight" : 200,
-				"previewShowSelector" : "gtViewsFor:",
-				"exampleBehaviorName" : "SkillsMatrixExample",
-				"codeExpanded" : true,
-				"previewExpanded" : false,
-				"noCode" : false
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-21T17:23:33.293+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-21T17:23:40.99+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "yF9hrwjyDQCHSpSaABjsqQ=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "With 3 members"
+				"string" : "The project has a title."
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -169,7 +55,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-21T17:24:29.563+02:00"
+						"dateAndTimeString" : "2026-07-19T13:24:42.83565+02:00"
 					}
 				},
 				"editEmail" : {
@@ -180,14 +66,85 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-22T12:31:27.08+02:00"
+						"dateAndTimeString" : "2026-07-19T13:26:49.592454+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "wPC7sgjyDQCHxwOmABjsqQ=="
+					"uidString" : "/K70lGSSSP+d3L37249sTA=="
 				},
-				"code" : "SkillsMatrixExample new member1"
+				"code" : "project := MigrationsProject titled: 'Portfolio Rationalisation' ."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-07-19T13:30:07.932631+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-07-19T13:33:22.217172+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "4CiNFEokRr2p8nBShDfACg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "There are some  risks identified that make it necessary to start the project"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-07-19T13:30:16.071476+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-07-19T13:35:17.01321+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "qxrjfT9NRO2aT/UQT89YgQ=="
+				},
+				"code" : "project addRisk: 'Mainframe costs' description: 'Only supplier can keep increasing hardware, licensing and maintenance costs'.\rproject addRisk: 'Supplier GDPR compliance' description: 'Global political situation results in loss of equivalence'"
 			}
 		]
 	},
@@ -199,7 +156,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-05-21T17:15:25.222+02:00"
+			"dateAndTimeString" : "2026-07-19T13:14:30.112498+02:00"
 		}
 	},
 	"editEmail" : {
@@ -210,15 +167,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-05-21T17:15:25.222+02:00"
+			"dateAndTimeString" : "2026-07-19T13:14:30.112498+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "One team skills matrix workshop"
+		"title" : "Determining System Scope"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "70004a92-08f2-0d00-865b-25a20018eca9"
+		"uuid" : "e334bf6d-916e-4025-bc55-0a1bd17220e8"
 	}
 }

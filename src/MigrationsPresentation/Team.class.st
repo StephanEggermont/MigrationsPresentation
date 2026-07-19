@@ -1,25 +1,27 @@
 Class {
-	#name : #Team,
-	#superclass : #Object,
+	#name : 'Team',
+	#superclass : 'Object',
 	#instVars : [
 		'name'
 	],
-	#category : #'MigrationsPresentation-Domain'
+	#category : 'MigrationsPresentation-Domain',
+	#package : 'MigrationsPresentation',
+	#tag : 'Domain'
 }
 
-{ #category : #'as yet unclassified' }
+{ #category : 'as yet unclassified' }
 Team class >> named: aString [ 
 	^self new
 		name: aString;
 		yourself
 ]
 
-{ #category : #accessing }
+{ #category : 'accessing' }
 Team >> name [
 	^ name
 ]
 
-{ #category : #accessing }
+{ #category : 'accessing' }
 Team >> name: anObject [
 	name := anObject
 ]

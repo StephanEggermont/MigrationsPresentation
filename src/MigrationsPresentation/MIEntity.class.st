@@ -1,34 +1,36 @@
 Class {
-	#name : #MIEntity,
-	#superclass : #Object,
+	#name : 'MIEntity',
+	#superclass : 'Object',
 	#instVars : [
 		'title',
 		'description'
 	],
-	#category : #'MigrationsPresentation-Domain'
+	#category : 'MigrationsPresentation-Domain',
+	#package : 'MigrationsPresentation',
+	#tag : 'Domain'
 }
 
-{ #category : #accessing }
+{ #category : 'accessing' }
 MIEntity >> description [
 	^ description
 ]
 
-{ #category : #accessing }
+{ #category : 'accessing' }
 MIEntity >> description: anObject [
 	description := anObject
 ]
 
-{ #category : #accessing }
+{ #category : 'accessing' }
 MIEntity >> title [
 	^ title
 ]
 
-{ #category : #accessing }
+{ #category : 'accessing' }
 MIEntity >> title: anObject [
 	title := anObject
 ]
 
-{ #category : #accessing }
+{ #category : 'accessing' }
 MIEntity >> tooltip [
 	^ [ BrLabel new
 		aptitude: BrGlamorousLabelAptitude new glamorousRegularFontAndSize;

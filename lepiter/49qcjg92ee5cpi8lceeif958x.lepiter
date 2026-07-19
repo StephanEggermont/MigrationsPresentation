@@ -82,7 +82,45 @@
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
-					"items" : [ ]
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-07-19T13:20:34.016529+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-07-19T13:20:34.016529+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "7uGt9k4JS7qd9PN+Q6OCtw=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "[[One team skills matrix workshop]]"
+						}
+					]
 				},
 				"createEmail" : {
 					"__type" : "email",
@@ -103,7 +141,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-07-19T12:31:37.667975+02:00"
+						"dateAndTimeString" : "2026-07-19T13:14:23.299178+02:00"
 					}
 				},
 				"uid" : {
@@ -113,7 +151,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "###Code\n\n[[A skills matrix workshop]]"
+				"string" : "###Code\n[[Determining System Scope]]\n\n[[A skills matrix workshop]]"
 			},
 			{
 				"__type" : "textSnippet",

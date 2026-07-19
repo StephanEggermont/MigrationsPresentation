@@ -103,7 +103,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-07-19T12:49:21.418917+02:00"
+						"dateAndTimeString" : "2026-07-19T13:45:30.187895+02:00"
 					}
 				},
 				"uid" : {
@@ -113,7 +113,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "###High Risk Work\nThe high risk work mostly consists of difficult to plan, perform and budget work, that is managed by a PDCA loop of save-to-fail experiments that build up knowledge and gradually create a backlog of work top be done. The project sponsor can get very nervous about this work, as it takes long, tends to surface more and more  things to be done, and might even question the business case for this migration. This is deliberate, and allows for early cancellation of the migration. That is better for the organization than ignoring the elephant in the room and continuing to do low-value low-risk work and push failure to the future. But is of course very uncomfortable for the people involved."
+				"string" : "###High Risk Work\nThe high risk work mostly consists of difficult to plan, perform and budget work, that is managed by a PDCA loop of safe-to-fail experiments that build up knowledge and gradually create a backlog of work to be done. The project sponsor can get very nervous about this work, as it takes long, tends to surface more and more  things to be done, and might even question the business case for this migration. This is deliberate, and allows for early cancellation of the migration. That is better for the organization than ignoring the elephant in the room and continuing to do low-value low-risk work and push failure to the future. But is of course very uncomfortable for the people involved."
 			},
 			{
 				"__type" : "textSnippet",
@@ -140,7 +140,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-07-19T12:53:28.70498+02:00"
+						"dateAndTimeString" : "2026-07-19T13:46:18.557639+02:00"
 					}
 				},
 				"uid" : {
@@ -150,7 +150,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "#Low Risk High Value Work\nTo make sure that the people involved have the energy to do the difficult and slow high-risk work, and to demonstrate continuous progress to the stakeholders and sponsor, it is crucial to do something easy and fulfilling every day. Starting the day with delivering something easy that provides direct value to a stakeholder or at least demonstartes progress  is a good way to maintain that positive energy."
+				"string" : "#Low Risk High Value Work\nTo make sure that the people involved have the energy to do the difficult and slow high-risk work, and to demonstrate continuous progress to the stakeholders and sponsor, it is crucial to do something easy and fulfilling every day. Starting the day with delivering something easy that provides direct value to a stakeholder or at least demonstrates progress  is a good way to maintain that positive energy."
 			},
 			{
 				"__type" : "textSnippet",

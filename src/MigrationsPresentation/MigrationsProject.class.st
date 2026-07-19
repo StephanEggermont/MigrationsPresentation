@@ -1,16 +1,34 @@
 Class {
-	#name : #MigrationsProject,
-	#superclass : #Object,
+	#name : 'MigrationsProject',
+	#superclass : 'Object',
 	#instVars : [
 		'title',
 		'risks',
 		'knowledgeAreas',
 		'tasks'
 	],
-	#category : #'MigrationsPresentation-Domain'
+	#category : 'MigrationsPresentation-Domain',
+	#package : 'MigrationsPresentation',
+	#tag : 'Domain'
 }
 
-{ #category : #accessing }
+{ #category : 'instance creation' }
+MigrationsProject class >> titled: aName [
+	^self new
+		title: aName;
+		yourself
+]
+
+{ #category : 'accessing' }
+MigrationsProject >> addKnowledgeArea: aTitle description: aDescription [
+	|area|
+	area := KnowledgeArea new.
+	area title: aTitle;
+		description: aDescription.
+	self knowledgeAreas add: area 
+]
+
+{ #category : 'accessing' }
 MigrationsProject >> addRisk: aTitle description: aDescription [
 	|risk|
 	risk := MigrationsRisk new.
@@ -19,7 +37,7 @@ MigrationsProject >> addRisk: aTitle description: aDescription [
 	self risks add: risk 
 ]
 
-{ #category : #accessing }
+{ #category : 'accessing' }
 MigrationsProject >> gtMapFor: aView [
 	<gtView>
 
@@ -44,24 +62,24 @@ MigrationsProject >> gtMapFor: aView [
  ]
 ]
 
-{ #category : #accessing }
+{ #category : 'accessing' }
 MigrationsProject >> initialize [
 	risks := OrderedCollection new.
 	tasks := OrderedCollection new.
 	knowledgeAreas := OrderedCollection new
 ]
 
-{ #category : #accessing }
+{ #category : 'accessing' }
 MigrationsProject >> knowledgeAreas [
 	^ knowledgeAreas
 ]
 
-{ #category : #accessing }
+{ #category : 'accessing' }
 MigrationsProject >> knowledgeAreas: anObject [
 	knowledgeAreas := anObject
 ]
 
-{ #category : #accessing }
+{ #category : 'accessing' }
 MigrationsProject >> rectangleNamed: aTitle [
 	|element text contentsArea|
 	element := BlElement new.
@@ -77,32 +95,32 @@ MigrationsProject >> rectangleNamed: aTitle [
 	^element
 ]
 
-{ #category : #accessing }
+{ #category : 'accessing' }
 MigrationsProject >> risks [
 	^ risks
 ]
 
-{ #category : #accessing }
+{ #category : 'accessing' }
 MigrationsProject >> risks: anObject [
 	risks := anObject
 ]
 
-{ #category : #accessing }
+{ #category : 'accessing' }
 MigrationsProject >> tasks [
 	^ tasks
 ]
 
-{ #category : #accessing }
+{ #category : 'accessing' }
 MigrationsProject >> tasks: anObject [
 	tasks := anObject
 ]
 
-{ #category : #accessing }
+{ #category : 'accessing' }
 MigrationsProject >> title [
 	^ title
 ]
 
-{ #category : #accessing }
+{ #category : 'accessing' }
 MigrationsProject >> title: anObject [
 	title := anObject
 ]

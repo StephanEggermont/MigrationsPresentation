@@ -140,7 +140,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-07-19T13:03:57.938892+02:00"
+						"dateAndTimeString" : "2026-07-19T13:46:47.159793+02:00"
 					}
 				},
 				"uid" : {
@@ -150,7 +150,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "###Replatform\nIf the operating system is getting retired, runninmg the system on a different platform is a possibility"
+				"string" : "###Replatform\nIf the operating system is getting retired, running the system on a different platform is a possibility"
 			},
 			{
 				"__type" : "textSnippet",
@@ -177,7 +177,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-07-19T13:06:05.292258+02:00"
+						"dateAndTimeString" : "2026-07-19T13:47:10.819075+02:00"
 					}
 				},
 				"uid" : {
@@ -187,7 +187,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "###Refactor\nKeeping the behavior of the system the same, but removing technical debt and duplication, and making the system more testable"
+				"string" : "###Refactor\nKeeping the behavior of the system the same, but removing technical debt and duplication, and making the system more testable and easier to understand and learn"
 			},
 			{
 				"__type" : "textSnippet",

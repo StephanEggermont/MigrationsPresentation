@@ -1,10 +1,12 @@
 Class {
-	#name : #SkillsMatrixExample,
-	#superclass : #Object,
-	#category : #'MigrationsPresentation-Scenarios'
+	#name : 'SkillsMatrixExample',
+	#superclass : 'Object',
+	#category : 'MigrationsPresentation-Scenarios',
+	#package : 'MigrationsPresentation',
+	#tag : 'Scenarios'
 }
 
-{ #category : #accessing }
+{ #category : 'accessing' }
 SkillsMatrixExample >> member1 [
 	<gtExample>
 	|member|
@@ -12,7 +14,7 @@ SkillsMatrixExample >> member1 [
 	^member
 ]
 
-{ #category : #'as yet unclassified' }
+{ #category : 'as yet unclassified' }
 SkillsMatrixExample >> team1 [
 	<gtExample>
 	|team|

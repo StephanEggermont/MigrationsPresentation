@@ -103,7 +103,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-03-31T21:38:52.948+02:00"
+						"dateAndTimeString" : "2026-07-19T13:42:17.243227+02:00"
 					}
 				},
 				"uid" : {
@@ -113,7 +113,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "When a (public) tender is involved, a loose-loose situation is created where there are incentives created to not be transparent about work that needs to be done but is not obvious to one or more of the parties involved."
+				"string" : "When a (public) tender is involved, a lose-lose situation is created where there are incentives created to not be transparent about work that needs to be done but is not obvious to one or more of the parties involved."
 			},
 			{
 				"__type" : "textSnippet",
@@ -140,7 +140,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-07-19T11:59:07.0276+02:00"
+						"dateAndTimeString" : "2026-07-19T13:43:12.566368+02:00"
 					}
 				},
 				"uid" : {
@@ -150,7 +150,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "###Underestimation\nThe business case for a migration looks better if the costs are lower. So there is always organizational pressure to avoid doing part of the work or to shift costs to other parties. Migrations are not done when all stakeholders are perfectly happy with the current situation, they are done when the current maintainers are struggling to keep up with business demands or regulation. That results in current maintainers and domain experts  being very busy. The migration project is then additional work for them, and it is difficult to ensure sufficient priority is given to correctly describe the needed work. It gets even worse if there is no adequate win-win situation created for the people doing this work. "
+				"string" : "###Underestimation\nThe business case for a migration looks better if the costs are lower. So there is always organizational pressure to avoid doing part of the work or to shift costs to other parties. Migrations are not done when all stakeholders are perfectly happy with the current situation, they are done when the current maintainers are struggling to keep up with business demands or regulation. That results in current maintainers and domain experts  being very busy. The migration project is then additional work for them, and it is difficult to ensure sufficient priority is given to correctly describe the work needed. It gets even worse if there is no adequate win-win situation created for the people doing this work. "
 			},
 			{
 				"__type" : "textSnippet",
