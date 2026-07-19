@@ -208,14 +208,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-07-19T16:50:34.183569+02:00"
+						"dateAndTimeString" : "2026-07-19T22:14:09.878835+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "1TDvyF+9Qs+NiFp2cEG8mQ=="
 				},
-				"code" : "project addKnowledgeArea: 'APEX' description: 'Oracle application tooling, pages, processes, computations, validations, shared components'.\rproject addKnowledgeArea: 'Cobol' description: ''.\rproject addKnowledgeArea: 'Oracle PL/SQL' description: ''\rproject addKnowledgeArea: 'JCL' description: ''."
+				"code" : "project addKnowledgeArea: 'APEX' description: 'Oracle application tooling, pages, processes, computations, validations, shared components' category: #old.\rproject addKnowledgeArea: 'Cobol' description: '' category: #old.\rproject addKnowledgeArea: 'Oracle PL/SQL' description: '' category: #old.\rproject addKnowledgeArea: 'JCL' description: 'Job Control Language' category: #old.\rproject addKnowledgeArea: 'SCT' description: 'AWS Schema Conversion Tool' category: #migration.\rproject addKnowledgeArea: 'DMS' description: 'AWS Database Migration Service'.\rproject addKnowledgeArea: 'Java' description: ''.\rproject addKnowledgeArea: 'Spring Boot' description: ''."
 			}
 		]
 	},

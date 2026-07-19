@@ -9,8 +9,9 @@ Class {
 { #category : 'as yet unclassified' }
 MigrationsRisk >> elementFor: aContextObject [
 	aContextObject class = MigrationsProject ifTrue: [ |uml|
-		uml := BrUmlClassElement withContainers: #(label attributes).
+		uml := BrUmlClassElement new.
 			uml text: self title in: #label.
+			uml border: Color red.
 			^uml]
 	ifFalse: [^BlElement new
 			background: Color orange]

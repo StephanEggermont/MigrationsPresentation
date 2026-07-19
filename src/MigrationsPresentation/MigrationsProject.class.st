@@ -29,6 +29,16 @@ MigrationsProject >> addKnowledgeArea: aTitle description: aDescription [
 ]
 
 { #category : 'accessing' }
+MigrationsProject >> addKnowledgeArea: aTitle description: aDescription category: aCategory [ 
+	|area|
+	area := KnowledgeArea new.
+	area title: aTitle;
+		description: aDescription;
+		category: aCategory.
+	self knowledgeAreas add: area 
+]
+
+{ #category : 'accessing' }
 MigrationsProject >> addRisk: aTitle description: aDescription [
 	|risk|
 	risk := MigrationsRisk new.
