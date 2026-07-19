@@ -52,7 +52,9 @@ MigrationsProject >> gtMapFor: aView [
 				forEach: [ :area |
 					aMondrian nodes
 						stencil: [ :element |
-							element elementFor: self];
+							(element elementFor: self)
+								constraintsDo: [:c |
+									c vertical fitContent].];
 						with: (self perform: area).
 				aMondrian layout grid].
 					
@@ -83,7 +85,7 @@ MigrationsProject >> rectangleNamed: aTitle [
 	|element text contentsArea|
 	element := BlElement new.
 	text := BrLabel new text:(aTitle asRopedText).
-	text aptitude: BrGlamorousLabelAptitude new glamorousCodeMiniSize.
+	text aptitude: BrGlamorousLabelAptitude new glamorousCodeSize.
 	element addChild: text.
 	contentsArea := BlElement new.
 	contentsArea border: Color gray.
