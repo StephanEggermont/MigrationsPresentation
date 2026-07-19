@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-07-19T11:37:54.844482+02:00"
+						"dateAndTimeString" : "2026-07-19T12:54:49.571651+02:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +39,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Index: [[Migrations, a working approach]]]]ck: [[Large migrations are more expensive]]]]"
+				"string" : "Index: [[Migrations, a working approach]] Back: [[Large migrations are more expensive]]"
 			},
 			{
 				"__type" : "textSnippet",
@@ -140,7 +140,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-07-19T11:59:04.256954+02:00"
+						"dateAndTimeString" : "2026-07-19T11:59:07.0276+02:00"
 					}
 				},
 				"uid" : {
@@ -150,7 +150,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "###Underestimation\nThe business case for a migration looks better if the costs are lower. So there is always organizational pressure to avoid doing part of the work or to shift costs to other parties. Migrations are not done when all stakeholders are perfectly happy with the current situation, they are done when the current maintainers are struggling to keep up with business demands or regulation. That results in current maintainers and domain experts  being very busy. The migration project is then additional work for them, and it is difficult to ensure sufficient priority is given to correctly describe the needed work. It gets even worse if there is no adequate win-win situation created for the people doi"
+				"string" : "###Underestimation\nThe business case for a migration looks better if the costs are lower. So there is always organizational pressure to avoid doing part of the work or to shift costs to other parties. Migrations are not done when all stakeholders are perfectly happy with the current situation, they are done when the current maintainers are struggling to keep up with business demands or regulation. That results in current maintainers and domain experts  being very busy. The migration project is then additional work for them, and it is difficult to ensure sufficient priority is given to correctly describe the needed work. It gets even worse if there is no adequate win-win situation created for the people doing this work. "
 			},
 			{
 				"__type" : "textSnippet",

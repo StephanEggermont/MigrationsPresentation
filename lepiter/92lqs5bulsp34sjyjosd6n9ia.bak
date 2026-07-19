@@ -66,7 +66,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-07-19T11:46:03.249616+02:00"
+						"dateAndTimeString" : "2026-07-19T12:38:57.239368+02:00"
 					}
 				},
 				"uid" : {
@@ -76,7 +76,81 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "When starting a migration, there is a large amount of uncertainty. It should be reduced as quickly as possible, to ensure that the predic"
+				"string" : "When starting a migration, there is a large amount of uncertainty. It should be reduced as quickly as possible, to ensure that the predictability of the migration process is gradually improved. That means having to deal with high risk early, as soon as enough knowledge is available to do it. "
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-07-19T12:39:00.273594+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-07-19T12:49:21.418917+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "RHmk0YkuSSWTPwLYyfH73g=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "###High Risk Work\nThe high risk work mostly consists of difficult to plan, perform and budget work, that is managed by a PDCA loop of save-to-fail experiments that build up knowledge and gradually create a backlog of work top be done. The project sponsor can get very nervous about this work, as it takes long, tends to surface more and more  things to be done, and might even question the business case for this migration. This is deliberate, and allows for early cancellation of the migration. That is better for the organization than ignoring the elephant in the room and continuing to do low-value low-risk work and push failure to the future. But is of course very uncomfortable for the people involved."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-07-19T12:48:14.241814+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-07-19T12:52:56.814454+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "pffk6iuLRGOTdFnMu1XMbA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "#Low Risk High Value Work\nTo make sure that the people involved have the energy to do the difficult and slow high-risk work, and to demonstrate continuous progress to the stakeholders and sponsor, it is crucial to do something easy and fulfilling every day. Starting the day with delivering something easy that provides direct value to a stakeholder is a good way to "
 			},
 			{
 				"__type" : "textSnippet",
