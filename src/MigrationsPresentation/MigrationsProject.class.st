@@ -5,7 +5,8 @@ Class {
 		'title',
 		'risks',
 		'knowledgeAreas',
-		'tasks'
+		'tasks',
+		'teams'
 	],
 	#category : 'MigrationsPresentation-Domain',
 	#package : 'MigrationsPresentation',
@@ -48,6 +49,19 @@ MigrationsProject >> addRisk: aTitle description: aDescription [
 ]
 
 { #category : 'accessing' }
+MigrationsProject >> addTeam: aTitle [ 
+	self addTeam: aTitle description: ''
+]
+
+{ #category : 'accessing' }
+MigrationsProject >> addTeam: aTitle description: aDescription [
+	|team|
+	team := (Team named: aTitle)
+		description: aDescription.
+	self teams add: team 
+]
+
+{ #category : 'accessing' }
 MigrationsProject >> gtMapFor: aView [
 	<gtView>
 
@@ -58,7 +72,7 @@ MigrationsProject >> gtMapFor: aView [
 			aMondrian nodes
 				stencil: [ :each | 
 					self rectangleNamed: each  ];
-				with: #(risks knowledgeAreas tasks)
+				with: #(risks knowledgeAreas tasks teams)
 				forEach: [ :area |
 					aMondrian nodes
 						stencil: [ :element |
@@ -77,7 +91,8 @@ MigrationsProject >> gtMapFor: aView [
 MigrationsProject >> initialize [
 	risks := OrderedCollection new.
 	tasks := OrderedCollection new.
-	knowledgeAreas := OrderedCollection new
+	knowledgeAreas := OrderedCollection new.
+	teams := OrderedCollection new
 ]
 
 { #category : 'accessing' }
@@ -124,6 +139,16 @@ MigrationsProject >> tasks [
 { #category : 'accessing' }
 MigrationsProject >> tasks: anObject [
 	tasks := anObject
+]
+
+{ #category : 'accessing' }
+MigrationsProject >> teams [
+	^teams
+]
+
+{ #category : 'accessing' }
+MigrationsProject >> teams: anObject [
+	teams := anObject
 ]
 
 { #category : 'accessing' }

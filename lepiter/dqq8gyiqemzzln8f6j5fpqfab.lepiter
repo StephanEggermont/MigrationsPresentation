@@ -100,7 +100,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-07-19T13:33:22.217172+02:00"
+						"dateAndTimeString" : "2026-07-19T22:54:51.249785+02:00"
 					}
 				},
 				"uid" : {
@@ -110,7 +110,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "There are some  risks identified that make it necessary to start the project"
+				"string" : "There are some  risks and opportunities identified that make it necessary to start the project"
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -208,14 +208,85 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-07-19T22:14:30.601592+02:00"
+						"dateAndTimeString" : "2026-07-19T22:54:11.843436+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "1TDvyF+9Qs+NiFp2cEG8mQ=="
 				},
-				"code" : "project addKnowledgeArea: 'APEX' description: 'Oracle application tooling, pages, processes, computations, validations, shared components' category: #old.\rproject addKnowledgeArea: 'Cobol' description: '' category: #old.\rproject addKnowledgeArea: 'Oracle PL/SQL' description: '' category: #old.\rproject addKnowledgeArea: 'JCL' description: 'Job Control Language' category: #old.\rproject addKnowledgeArea: 'SCT' description: 'AWS Schema Conversion Tool' category: #migration.\rproject addKnowledgeArea: 'DMS' description: 'AWS Database Migration Service' category: #migration.\rproject addKnowledgeArea: 'Java' description: '' category: #new.\rproject addKnowledgeArea: 'Spring Boot' description: '' category: #new."
+				"code" : "project addKnowledgeArea: 'APEX' description: 'Oracle application tooling, pages, processes, computations, validations, shared components' category: #old.\rproject addKnowledgeArea: 'Cobol' description: '' category: #old.\rproject addKnowledgeArea: 'Oracle PL/SQL' description: '' category: #old.\rproject addKnowledgeArea: 'JCL' description: 'Job Control Language' category: #old.\rproject addKnowledgeArea: 'SCT' description: 'AWS Schema Conversion Tool' category: #migration.\rproject addKnowledgeArea: 'DMS' description: 'AWS Database Migration Service' category: #migration.\rproject addKnowledgeArea: 'AI Tooling' description: '' category: #new.\rproject addKnowledgeArea: 'Java' description: '' category: #new.\rproject addKnowledgeArea: 'Spring Boot' description: '' category: #new.\rproject addKnowledgeArea: 'Angular' description: '' category: #new."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-07-19T22:56:29.150084+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-07-19T22:58:07.058607+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "8xNZaNkvSZ2VxcKqXGEMSA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "There are a number of teams working  within the scope of the project. Other teams are interfacing with the project"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-07-19T23:10:45.699737+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-07-19T23:13:34.00335+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "IxMDrIOjTu+Aj+5eRpPsiw=="
+				},
+				"code" : "team := project addTeam: 'MainFrame Application 1'.\rteam := project addTeam: 'MainFrame Application 2'.\rteam := project addTeam: 'APEX application 1'.\rteam := project addTeam: 'APEX application 2'.\rteam := project addTeam: 'Oracle'.\rteam := project addTeam: 'Java applications'.\rteam := project addTeam: 'AI'.\rteam := project addTeam: 'Platform'.\r"
 			}
 		]
 	},

@@ -1,6 +1,6 @@
 Class {
 	#name : 'Team',
-	#superclass : 'Object',
+	#superclass : 'MIEntity',
 	#instVars : [
 		'name'
 	],
@@ -14,6 +14,17 @@ Team class >> named: aString [
 	^self new
 		name: aString;
 		yourself
+]
+
+{ #category : 'as yet unclassified' }
+Team >> elementFor: aContextObject [
+	aContextObject class = MigrationsProject ifTrue: [ |uml|
+		uml := BrUmlClassElement new.
+			uml text: self name in: #label.
+			uml border: Color green.
+			^uml]
+	ifFalse: [^BlElement new
+			background: Color orange]
 ]
 
 { #category : 'accessing' }

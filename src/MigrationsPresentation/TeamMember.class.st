@@ -1,6 +1,6 @@
 Class {
 	#name : 'TeamMember',
-	#superclass : 'Object',
+	#superclass : 'MIEntity',
 	#instVars : [
 		'name'
 	],
