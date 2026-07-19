@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-07-19T11:43:14.905372+02:00"
+						"dateAndTimeString" : "2026-07-19T13:08:17.058757+02:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +39,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Index: [[Migrations, a working approach]]  Back: [[Fake a rational process]]]"
+				"string" : "Index: [[Migrations, a working approach]]  Back: [[Fake a rational process]]"
 			},
 			{
 				"__type" : "textSnippet",
@@ -166,7 +166,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-07-19T11:43:18.073093+02:00"
+						"dateAndTimeString" : "2026-07-19T13:00:12.249427+02:00"
 					}
 				},
 				"editEmail" : {
@@ -177,7 +177,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-07-19T11:43:18.073093+02:00"
+						"dateAndTimeString" : "2026-07-19T13:00:28.128554+02:00"
 					}
 				},
 				"uid" : {
@@ -187,7 +187,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : ""
+				"string" : "Next: [[Migration variants]]"
 			}
 		]
 	},
