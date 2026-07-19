@@ -52,8 +52,7 @@ MigrationsProject >> gtMapFor: aView [
 				forEach: [ :area |
 					aMondrian nodes
 						stencil: [ :element |
-							BlElement new
-								background: Color orange];
+							element elementFor: self];
 						with: (self perform: area).
 				aMondrian layout grid].
 					
