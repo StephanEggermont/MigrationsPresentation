@@ -388,6 +388,43 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-07-19T12:00:26.423207+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-07-19T12:02:34.780364+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "Otru41neS12Pn2uBOZcQXw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "###Context\nShow the different stakeholders, and what they see as success. Create separate views for the stakeholders with their own perspective on progress to success, risk, knowledge and a"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
 						"dateAndTimeString" : "2026-07-19T11:39:23.686136+02:00"
 					}
 				},
@@ -399,7 +436,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-07-19T11:39:33.436567+02:00"
+						"dateAndTimeString" : "2026-07-19T11:43:34.487589+02:00"
 					}
 				},
 				"uid" : {
@@ -409,7 +446,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Next: [[Fake a rational process]]]]"
+				"string" : "Next: [[Fake a rational process]]"
 			}
 		]
 	},
